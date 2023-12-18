@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="img">	<file>cipher.png</file>
+	<file>copy.png</file>
+	<file>cryptography/ATBASH.png</file>
+	<file>cryptography/CAESAR.png</file>
+	<file>cryptography/VERNAM.png</file>
+	<file>cryptography/VIGENERE.png</file>
+	<file>icon2py.bat</file>
+	<file>logo.png</file>
+	<file>replace.png</file>
+	<file>text.png</file>
+	<file>ui2py.bat</file>
+
+</qresource>
+</RCC>
