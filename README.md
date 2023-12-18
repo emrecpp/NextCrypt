@@ -52,7 +52,7 @@
     ```
 
 ## See also
-- [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets/tree/PySide6)：A fluent design widgets library based on PySide6
+- [zhiyiYo/PySide-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets/tree/PySide6)：A fluent design widgets library based on PySide6
 
 ## License
 
