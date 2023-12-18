@@ -5,7 +5,7 @@
   Next Crypt
 </h1>
 <p align="center">
-  NextCrypt is a Python application featuring a Qt interface with animations, designed to perform encryption and decryption using algorithms such as Caesar, Vigenere, Atbash, and Vernam.
+  NextCrypt is a Python application featuring a Qt interface with animations, designed to perform encryption and decryption using algorithms such as Caesar, Vigenère, Atbash, and Vernam.
 </p>
 
 <p align="center">
